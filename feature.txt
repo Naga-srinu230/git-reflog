@@ -1,1 +1,2 @@
 Implemented new feature
+Implemented new feature 1
